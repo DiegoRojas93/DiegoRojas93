@@ -6,11 +6,11 @@ I am a professional mechatronics technician👨‍🎓⚙ from Bogotá, Colombia
 
 🚀My new professional objective is to start and grow rapidly in high impact companies or startups to serve as **Frontend Developer.** With the desire to create incredible products for users through different frontend technologies that I am acquiring in a self-taught way.
 
-<section style="display:flex; justify-content: space-around; align-items: center">
+<div style="display:flex; justify-content: space-around; align-items: center">
 	<div style="width:50vw; text-align: center,">
 		<p>I am currently studying in [platzi](https://platzi.com/) in the frontend developer career</p>
 	</div>
 	<div  style="width:50vw">
 		[![Watch the video](https://img.youtube.com/vi/ZYmIUiK8ZQI/maxresdefault.jpg)](https://youtu.be/ZYmIUiK8ZQI)
 	</div>
-</section>
+</div>
