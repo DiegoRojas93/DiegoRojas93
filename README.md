@@ -1,5 +1,7 @@
 ![enter image description here](https://2vtt903fz7pzurynz13hoiq1-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/JavaScript.gif)
 
+[========]
+
 <h1 align="center">👋 Hello! I'm Diego Rojas - Frontend Developer</h1>
 
 I am a professional mechatronics technician👨‍🎓⚙ from Bogotá, Colombia with knowledge in electronics ⚡. I have worked in companies like **Celular Sun** and  **Logytech Mobile** for the brands of ***Samsung*** and ***Motorola.*** 
@@ -15,5 +17,5 @@ I am a professional mechatronics technician👨‍🎓⚙ from Bogotá, Colombia
 **NOTE**: Top languages does not indicate my skill level, it’s a github metric of which languages i have the most code on github, it’s a new feature of github-readme-stats
 
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DiegoRojas93&theme=tokyonight" />
-
+<img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DiegoRojas93&theme=tokyonight" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=DiegoRojas93&show_icons=true&theme=tokyonight" />
