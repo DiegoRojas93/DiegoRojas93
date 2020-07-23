@@ -2,7 +2,8 @@
 ----
 
 <h1 align="center">👋 Hello! I'm Diego Rojas - Frontend Developer</h1>
-<p align="center">
+
+<p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/diego-rojas-4304/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/diego-rojas-4304/" height="20" width="20" /></a>
 <a href="https://twitter.com/https://twitter.com/diegoro65061830" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/diegoro65061830" height="20" width="20" /></a>
 <a href="https://stackoverflow.com/https://es.stackoverflow.com/users/167631/diego-rojas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://es.stackoverflow.com/users/167631/diego-rojas" height="20" width="20" /></a>
