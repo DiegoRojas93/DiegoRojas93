@@ -5,14 +5,15 @@
 💼 Portfolio [https://diegorojas93.github.io/](https://diegorojas93.github.io/)
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/diego-rojas-4304/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/diego-rojas-4304/" height="20" width="20" /></a>
-<a href="https://twitter.com/https://twitter.com/diegoro65061830" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/diegoro65061830" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/https://es.stackoverflow.com/users/167631/diego-rojas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://es.stackoverflow.com/users/167631/diego-rojas" height="20" width="20" /></a>
-<a href="https://fb.com/https://www.facebook.com/diego.rojasquintero/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/diego.rojasquintero/" height="20" width="20" /></a>
-<a href="https://codepen.io/https://codepen.io/diegorojas93" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/diegorojas93" height="20" width="20" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/new-dashboard/home" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="https://codesandbox.io/new-dashboard/home" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/diego-rojas-4304" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="diego-rojas-4304" height="20" width="20" /></a>
+<a href="https://twitter.com/diegoro65061830" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="diegoro65061830" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/users/13736070/diego-rojas?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="users/13736070/diego-rojas?tab=profile" height="20" width="20" /></a>
+<a href="https://fb.com/diego.rojasquintero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="diego.rojasquintero" height="20" width="20" /></a>
+<a href="https://codesandbox.com/https://codesandbox.io/u/diegorojas93" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="https://codesandbox.io/u/diegorojas93" height="20" width="20" /></a>
+<a href="https://codepen.io/diegorojas93" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="diegorojas93" height="20" width="20" /></a>
+<a href="https://dribbble.com/diego93" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="diego93" height="20" width="20" /></a>
 </p>
-----
+------------
 
 I am a professional mechatronics technician👨‍🎓⚙ from Bogotá, Colombia with knowledge in electronics ⚡. I have worked in companies like **Celular Sun** and  **Logytech Mobile** for the brands of ***Samsung*** and ***Motorola.***
 
