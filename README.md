@@ -1,6 +1,10 @@
 ![enter image description here](https://2vtt903fz7pzurynz13hoiq1-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/JavaScript.gif)
 
+------------
+
 <h1 align="center">👋 Hello! I'm Diego Rojas - Frontend Developer</h1>
+
+------------
 
 💼 Portfolio [https://diegorojas93.github.io/](https://diegorojas93.github.io/)
 
