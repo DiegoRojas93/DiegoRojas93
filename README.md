@@ -33,5 +33,3 @@
 
 <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DiegoRojas93&theme=tokyonight" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=DiegoRojas93&show_icons=true&theme=tokyonight" />
-
-<h3>I am a professional mechatronics technician👨‍🎓 from Bogotá, Colombia with knowledge in electronics ⚡. I have worked in companies like Celular Sun and Logytech Mobile for the brands of Samsung and Motorola.</h3>
