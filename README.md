@@ -13,7 +13,7 @@
 <a href="https://twitter.com/diegoro65061830" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="diegoro65061830" height="20" width="20" /></a>
 <a href="https://stackoverflow.com/users/13736070/diego-rojas?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="users/13736070/diego-rojas?tab=profile" height="20" width="20" /></a>
 <a href="https://fb.com/diego.rojasquintero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="diego.rojasquintero" height="20" width="20" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/u/diegorojas93" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="https://codesandbox.io/u/diegorojas93" height="20" width="20" /></a>
+<a href="https://codesandbox.io/u/diegorojas93" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="https://codesandbox.io/u/diegorojas93" height="20" width="20" /></a>
 <a href="https://codepen.io/diegorojas93" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="diegorojas93" height="20" width="20" /></a>
 <a href="https://dribbble.com/diego93" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="diego93" height="20" width="20" /></a>
 </p>
