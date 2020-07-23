@@ -1,7 +1,9 @@
 ![enter image description here](https://2vtt903fz7pzurynz13hoiq1-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/JavaScript.gif)
-
+----
 
 <h1 align="center">👋 Hello! I'm Diego Rojas - Frontend Developer</h1>
+
+<p align="center">
 
 <p align="right">
 <a href="https://stackoverflow.com/https://es.stackoverflow.com/users/167631/diego-rojas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://es.stackoverflow.com/users/167631/diego-rojas" height="20" width="20" /></a>
@@ -14,7 +16,8 @@
 <a href="https://fb.com/https://www.facebook.com/diego.rojasquintero/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/diego.rojasquintero/" height="20" width="20" /></a>
 </p>
 
-----
+</p>
+
 
 I am a professional mechatronics technician👨‍🎓⚙ from Bogotá, Colombia with knowledge in electronics ⚡. I have worked in companies like **Celular Sun** and  **Logytech Mobile** for the brands of ***Samsung*** and ***Motorola.***
 
