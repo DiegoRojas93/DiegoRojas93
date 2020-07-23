@@ -2,15 +2,13 @@
 ----
 
 <h1 align="center">👋 Hello! I'm Diego Rojas - Frontend Developer</h1>
-
-<p align="right">
+<p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/diego-rojas-4304/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/diego-rojas-4304/" height="20" width="20" /></a>
 <a href="https://twitter.com/https://twitter.com/diegoro65061830" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/diegoro65061830" height="20" width="20" /></a>
-<a href="https://fb.com/https://www.facebook.com/diego.rojasquintero/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/diego.rojasquintero/" height="20" width="20" /></a>
-
 <a href="https://stackoverflow.com/https://es.stackoverflow.com/users/167631/diego-rojas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://es.stackoverflow.com/users/167631/diego-rojas" height="20" width="20" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/new-dashboard/home" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="https://codesandbox.io/new-dashboard/home" height="20" width="20" /></a>
+<a href="https://fb.com/https://www.facebook.com/diego.rojasquintero/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/diego.rojasquintero/" height="20" width="20" /></a>
 <a href="https://codepen.io/https://codepen.io/diegorojas93" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/diegorojas93" height="20" width="20" /></a>
+<a href="https://codesandbox.com/https://codesandbox.io/new-dashboard/home" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="https://codesandbox.io/new-dashboard/home" height="20" width="20" /></a>
 </p>
 
 
