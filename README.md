@@ -1,6 +1,5 @@
 ![enter image description here](https://2vtt903fz7pzurynz13hoiq1-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/JavaScript.gif)
 
-[========]
 
 <h1 align="center">👋 Hello! I'm Diego Rojas - Frontend Developer</h1>
 
@@ -10,8 +9,8 @@ I am a professional mechatronics technician👨‍🎓⚙ from Bogotá, Colombia
 
 |  |  |
 |--|--|
-| <p align="center"> I am currently studying in [platzi](https://platzi.com/) in the frontend developer career </p> | [![Watch the video](https://img.youtube.com/vi/ZYmIUiK8ZQI/maxresdefault.jpg)](https://youtu.be/ZYmIUiK8ZQI) |
-| [![Diploma](https://github.com/DiegoRojas93/DiegoRojas93/blob/master/src/images/download.png "Diploma")](https://platzi.com/@Diego-Rojas4304/ruta/7-arquitecto/diploma/detalle/ "Diploma") | <p align="center"> This was my recognition at Platzi </p> |
+| <h3 align="center"> I am currently studying in [platzi](https://platzi.com/) in the frontend developer career </h3> | [![Watch the video](https://img.youtube.com/vi/ZYmIUiK8ZQI/maxresdefault.jpg)](https://youtu.be/ZYmIUiK8ZQI) |
+| [![Diploma](https://github.com/DiegoRojas93/DiegoRojas93/blob/master/src/images/download.png "Diploma")](https://platzi.com/@Diego-Rojas4304/ruta/7-arquitecto/diploma/detalle/ "Diploma") | <h3 align="center"> This was my recognition at Platzi </h3> |
 
 
 **NOTE**: Top languages does not indicate my skill level, it’s a github metric of which languages i have the most code on github, it’s a new feature of github-readme-stats
