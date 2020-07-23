@@ -13,6 +13,7 @@
 <a href="https://codepen.io/diegorojas93" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="diegorojas93" height="20" width="20" /></a>
 <a href="https://dribbble.com/diego93" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="diego93" height="20" width="20" /></a>
 </p>
+
 ------------
 
 I am a professional mechatronics technician👨‍🎓⚙ from Bogotá, Colombia with knowledge in electronics ⚡. I have worked in companies like **Celular Sun** and  **Logytech Mobile** for the brands of ***Samsung*** and ***Motorola.***
