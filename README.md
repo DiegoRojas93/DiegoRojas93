@@ -23,11 +23,7 @@ I am a professional mechatronics technician👨‍🎓⚙ from Bogotá, Colombia
 | <h3 align="center"> I am currently studying in [platzi](https://platzi.com/) in the frontend developer career </h3> | [![Watch the video](https://img.youtube.com/vi/ZYmIUiK8ZQI/maxresdefault.jpg)](https://youtu.be/ZYmIUiK8ZQI) |
 | [![Diploma](https://github.com/DiegoRojas93/DiegoRojas93/blob/master/src/images/download.png "Diploma")](https://platzi.com/@Diego-Rojas4304/ruta/7-arquitecto/diploma/detalle/ "Diploma") | <h3 align="center"> This was my recognition at Platzi </h3> <p align="center"><img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="20" height="20"/></p>|
 
-
 **NOTE**: Top languages does not indicate my skill level, it’s a github metric of which languages i have the most code on github, it’s a new feature of github-readme-stats
-
 
 <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DiegoRojas93&theme=tokyonight" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=DiegoRojas93&show_icons=true&theme=tokyonight" />
-
-I am a professional mechatronics technician👨‍🎓⚙ from Bogotá, Colombia with knowledge in electronics ⚡. I have worked in companies like **Celular Sun** and  **Logytech Mobile** for the brands of ***Samsung*** and ***Motorola.***
