@@ -6,10 +6,10 @@ I am a professional mechatronics technician👨‍🎓⚙ from Bogotá, Colombia
 
 🚀My new professional objective is to start and grow rapidly in high impact companies or startups to serve as **Frontend Developer.** With the desire to create incredible products for users through different frontend technologies that I am acquiring in a self-taught way.
 
-
 |  |  |
 |--|--|
 | I am currently studying in [platzi](https://platzi.com/) in the frontend developer career | [![Watch the video](https://img.youtube.com/vi/ZYmIUiK8ZQI/maxresdefault.jpg)](https://youtu.be/ZYmIUiK8ZQI) |
+| [![Diploma](https://i.imgur.com/Ld9Nug1.png "Diploma")](https://platzi.com/@Diego-Rojas4304/ruta/7-arquitecto/diploma/detalle/ "Diploma") | This was my recognition at Platzi |
 
 
 **NOTE**: Top languages does not indicate my skill level, it’s a github metric of which languages i have the most code on github, it’s a new feature of github-readme-stats
