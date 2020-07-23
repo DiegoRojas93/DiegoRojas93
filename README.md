@@ -20,9 +20,9 @@
 
 ------------
 
-<h3>Soy un técnico profesional en <strong style="color: black">mecatrónica👨‍🎓.</strong>de Bogotá, Colombia con conocimiento en electrónica ⚡. He trabajado en compañías como Celular Sun y Logytech Mobile para las marcas de Samsung y Motorola.</h3>
+<h3>I am a professional mechatronics technician👨‍🎓 from Bogotá, Colombia with knowledge in electronics ⚡. I have worked in companies like Celular Sun and Logytech Mobile for the brands of Samsung and Motorola.</h3>
 
-🚀My new professional objective is to start and grow rapidly in high impact companies or startups to serve as **Frontend Developer.** With the desire to create incredible products for users through different frontend technologies that I am acquiring in a self-taught way.
+<h3>🚀My new professional objective is to start and grow rapidly in high impact companies or startups to serve as Frontend Developer. With the desire to create incredible products for users through different frontend technologies that I am acquiring in a self-taught way.</h3>
 
 |  |  |
 |--|--|
@@ -34,4 +34,4 @@
 <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DiegoRojas93&theme=tokyonight" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=DiegoRojas93&show_icons=true&theme=tokyonight" />
 
-<h3>I am a professional <mark style="color:red;">mechatronics technician👨‍🎓</mark> from Bogotá, Colombia with knowledge in electronics ⚡. I have worked in companies like Celular Sun and Logytech Mobile for the brands of Samsung and Motorola.</h3>
+<h3>I am a professional mechatronics technician👨‍🎓 from Bogotá, Colombia with knowledge in electronics ⚡. I have worked in companies like Celular Sun and Logytech Mobile for the brands of Samsung and Motorola.</h3>
