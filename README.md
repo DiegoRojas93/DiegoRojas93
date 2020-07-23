@@ -8,8 +8,8 @@ I am a professional mechatronics technician👨‍🎓⚙ from Bogotá, Colombia
 
 |  |  |
 |--|--|
-| <p style="text-align: center"> I am currently studying in [platzi](https://platzi.com/) in the frontend developer career </p> | [![Watch the video](https://img.youtube.com/vi/ZYmIUiK8ZQI/maxresdefault.jpg)](https://youtu.be/ZYmIUiK8ZQI) |
-| [![Diploma](https://github.com/DiegoRojas93/DiegoRojas93/blob/master/src/images/download.png "Diploma")](https://platzi.com/@Diego-Rojas4304/ruta/7-arquitecto/diploma/detalle/ "Diploma") | <p style="text-align: center"> This was my recognition at Platzi </p> |
+| <h6> I am currently studying in [platzi](https://platzi.com/) in the frontend developer career </h6> | [![Watch the video](https://img.youtube.com/vi/ZYmIUiK8ZQI/maxresdefault.jpg)](https://youtu.be/ZYmIUiK8ZQI) |
+| [![Diploma](https://github.com/DiegoRojas93/DiegoRojas93/blob/master/src/images/download.png "Diploma")](https://platzi.com/@Diego-Rojas4304/ruta/7-arquitecto/diploma/detalle/ "Diploma") | <h6> This was my recognition at Platzi </h6> |
 
 
 **NOTE**: Top languages does not indicate my skill level, it’s a github metric of which languages i have the most code on github, it’s a new feature of github-readme-stats
