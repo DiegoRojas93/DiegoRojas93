@@ -27,5 +27,8 @@
 |  |  |
 |--|--|
 | <h3 align="center"> I am currently studying in [platzi](https://platzi.com/) in the frontend developer career </h3> | [![Watch the video](https://img.youtube.com/vi/ZYmIUiK8ZQI/maxresdefault.jpg)](https://youtu.be/ZYmIUiK8ZQI) |
-| [![Diploma](https://github.com/DiegoRojas93/DiegoRojas93/blob/main/src/images/download.png "Diploma")](https://platzi.com/@Diego-Rojas4304/ruta/7-arquitecto/diploma/detalle/ "Diploma")|**NOTE**: Top languages does not indicate my skill level, it’s a github metric of which languages i have the most code on github, it’s a new feature of github-readme-stats
-<img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DiegoRojas93&theme=tokyonight" />|
+| [![Diploma](https://github.com/DiegoRojas93/DiegoRojas93/blob/main/src/images/download.png "Diploma")](https://platzi.com/@Diego-Rojas4304/ruta/7-arquitecto/diploma/detalle/ "Diploma")
+
+
+**NOTE**: Top languages does not indicate my skill level, it’s a github metric of which languages i have the most code on github, it’s a new feature of github-readme-stats
+<img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DiegoRojas93&theme=tokyonight" />
