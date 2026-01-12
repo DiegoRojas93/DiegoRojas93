@@ -24,10 +24,11 @@
 
 <h3>🚀My new professional objective is to start and grow rapidly in high impact companies or startups to serve as Frontend Developer. With the desire to create incredible products for users through different frontend technologies that I am acquiring in a self-taught way.</h3>
 
+[![Diploma](https://github.com/DiegoRojas93/DiegoRojas93/blob/main/src/images/download.png "Diploma")](https://platzi.com/@Diego-Rojas4304/ruta/7-arquitecto/diploma/detalle/ "Diploma")
+
 |  |  |
 |--|--|
-| <h3 align="center"> I am currently studying in [platzi](https://platzi.com/) in the frontend developer career </h3> | [![Watch the video](https://img.youtube.com/vi/ZYmIUiK8ZQI/maxresdefault.jpg)](https://youtu.be/ZYmIUiK8ZQI) |
-| [![Diploma](https://github.com/DiegoRojas93/DiegoRojas93/blob/main/src/images/download.png "Diploma")](https://platzi.com/@Diego-Rojas4304/ruta/7-arquitecto/diploma/detalle/ "Diploma")|
+| <h3 align="center"> I am currently studying in [platzi](https://platzi.com/) in the frontend developer career </h3> | [![Watch the video](https://img.youtube.com/vi/ZYmIUiK8ZQI/maxresdefault.jpg)](https://youtu.be/ZYmIUiK8ZQI)|
 
 
 **NOTE**: Top languages does not indicate my skill level, it’s a github metric of which languages i have the most code on github, it’s a new feature of github-readme-stats
