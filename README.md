@@ -2,26 +2,32 @@
   <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&fontColor=E6EDF3&fontAlign=50&fontAlignY=50&descAlign=50&descAlignY=65&color=0:1E1B4B,50:7C5CFA,100:38BDF8" />
 </div>
 
-<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
+<!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=3000&pause=600&color=22D3EE&center=true&vCenter=true&width=854&height=90&lines=👋+Hi!;I+am+Diego+Rojas;Software+Solutions+Architect;AI+%26+Automation+Specialist)
 
 
-<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
+<!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <img align="right" height="200" src="https://media.giphy.com/media/y8KNkCxKoErUTIDXWL/giphy.gif"  />
 
-<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
+<!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 ###
 
 <p align="left" style="color:#9BA3AF; line-height:1.7">
-I’m a software solutions architect specialized in AI, automation and software. I focus on transforming complex challenges into clear, scalable, and reliable systems. My work is driven by structured thinking, solid technical foundations, and a strong orientation toward business value. I enjoy designing solutions that are not only technically sound, but also practical, maintainable, and aligned with real-world needs.
+
+I am a Software Solutions Architect specialized in AI, automation, and scalable software systems.
+
+I design and implement architectures that transform complex technical challenges into reliable, maintainable, and business-driven solutions. My work focuses on system design, automation pipelines, AI-assisted workflows, and software quality.
+
+I collaborate closely with stakeholders to ensure that technical decisions align with real business objectives, emphasizing clarity, scalability, and long-term sustainability.
 </p>
 
 ###
 
-<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
+<!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
+### 🧑 Who am I?
 * ✝️ I am a Christian<br>
 * 🇨🇴 I am from Colobmia<br>
 * 💼 See my [portfolio](http://https://diegorojas.netlify.app/)<br>
@@ -29,10 +35,18 @@ I’m a software solutions architect specialized in AI, automation and software.
 * 🚀 I am studying everything related to AI, AI-based automation, and AI software ✨<br>
 * 🦸 I'm here to overcome impossible challenges ✨<br>
 * 🏢 I'm currently working on [WM Wireless & Mobile](https://www.wi-mobile.com/)
+  
+<!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
+### 🧠 What I Do
 
-### 🤝🏻 Connect with Me
+- Design scalable software architectures with a strong focus on AI and automation
+- Build AI-assisted automation pipelines to optimize workflows and reduce operational complexity
+- Develop maintainable backend systems using Python, Java, and JavaScript
+- Implement containerized solutions using Docker and Linux environments
+- Translate business requirements into robust technical solutions
+
+<!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 ### 🤝🏻 Connect with Me
 
@@ -58,30 +72,63 @@ I’m a software solutions architect specialized in AI, automation and software.
   </a>
 </div>
 
-
-<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
+<!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 ### 🛠️ Tech Stack
 
-<br clear="both">
+<details>
+<summary><strong>💻 Lenguajes</strong></summary>
+
+<br>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg"  height="40" alt="notion logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
 </div>
 
-<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
+<br>
+
+</details>
+
+<details>
+<summary><strong>⚙️ DevOps</strong></summary>
+
+<br>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+</div>
+
+<br>
+
+</details>
+
+<details>
+<summary><strong>🤖 AI & Automation</strong></summary>
+
+<br>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img width="16" />
+</div>
+
+<br>
+
+</details>
+
+
+
+
+
+<!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
 ### 📈 GitHub Analitics
 
