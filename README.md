@@ -74,22 +74,18 @@ I collaborate closely with stakeholders to ensure that technical decisions align
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-### 🛠️ Tech Stack
+
+
+### 🛠️ Mis Skills
 
 <details>
 <summary><strong>💻 Lenguajes</strong></summary>
 
 <br>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-</div>
-
-<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 </details>
 
@@ -98,15 +94,9 @@ I collaborate closely with stakeholders to ensure that technical decisions align
 
 <br>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-</div>
-
-<br>
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </details>
 
@@ -115,14 +105,32 @@ I collaborate closely with stakeholders to ensure that technical decisions align
 
 <br>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img width="16" />
-</div>
+![AI](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-0EA5E9?style=for-the-badge)
+![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-1A73E8?style=for-the-badge&logo=lookerstudio&logoColor=white)
 
-<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+![Stars](https://img.shields.io/github/stars/usuario/repositorio?style=flat)
+![Last Commit](https://img.shields.io/github/last-commit/usuario/repositorio)
+![Top Language](https://img.shields.io/github/languages/top/usuario/repositorio)
+![Build](https://img.shields.io/github/actions/workflow/status/usuario/repo/build.yml)
+![Role](https://img.shields.io/badge/Role-Solutions_Architect-7C5CFA?style=for-the-badge)
+![Mindset](https://img.shields.io/badge/Mindset-Problem_Solver-0EA5E9?style=flat)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+![Looker](https://img.shields.io/badge/Looker_Studio-1A73E8?style=for-the-badge&logo=lookerstudio)
+![Architecture](https://img.shields.io/badge/Architecture-System_Design-202124?style=for-the-badge)
+
 
 </details>
+
+
 
 
 
