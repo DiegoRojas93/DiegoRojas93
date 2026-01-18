@@ -48,7 +48,7 @@ I collaborate closely with stakeholders to ensure that technical decisions align
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-### 🤝🏻 Connect with Me
+<h2 align="center">🤝🏻 Connect with Me</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/perfil" target="_blank" rel="noreferrer">
@@ -76,16 +76,21 @@ I collaborate closely with stakeholders to ensure that technical decisions align
 
 
 
-### 🛠️ Mis Skills
+<h2 align="center">🧩 Skills & Professional Capabilities</h2>
+
+
+### 🛠️ Technical Skills
 
 <details>
 <summary><strong>💻 Lenguajes</strong></summary>
 
 <br>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-Language-F7DF1E?style=plastic&logo=javascript&labelColor=161B22)
+![Java](https://img.shields.io/badge/Java-Backend_Language-FF0000?style=plastic&logo=openjdk&logoColor=FF0000&labelColor=161B22)
+![Python](https://img.shields.io/badge/Python-Programming_Language-3776AB?style=plastic&logo=python&labelColor=161B22)
+![HTML5](https://img.shields.io/badge/HTML5-Markup-E34F26?style=plastic&logo=html5&labelColor=161B22)
+![CSS3](https://img.shields.io/badge/CSS3-Styles-1572B6?style=plastic&logo=css3&labelColor=161B22)
 
 </details>
 
@@ -94,9 +99,9 @@ I collaborate closely with stakeholders to ensure that technical decisions align
 
 <br>
 
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=plastic&logo=git&labelColor=161B22)
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=plastic&logo=docker&labelColor=161B22)
+![Linux](https://img.shields.io/badge/Linux-Operating_System-FCC624?style=plastic&logo=linux&labelColor=161B22)
 
 </details>
 
@@ -105,40 +110,65 @@ I collaborate closely with stakeholders to ensure that technical decisions align
 
 <br>
 
-![AI](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-0EA5E9?style=for-the-badge)
-![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-1A73E8?style=for-the-badge&logo=lookerstudio&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-Automation-4285F4?style=plastic&logo=googleappsscript&labelColor=161B22)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-Business_Intelligence-1A73E8?style=plastic&logo=lookerstudio&labelColor=161B22)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-Spreadsheets-34A853?style=plastic&logo=googlesheets&labelColor=161B22)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-Spreadsheets-217346?style=plastic&logo=microsoftexcel&labelColor=161B22)
 
+</details>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
-![Stars](https://img.shields.io/github/stars/usuario/repositorio?style=flat)
-![Last Commit](https://img.shields.io/github/last-commit/usuario/repositorio)
-![Top Language](https://img.shields.io/github/languages/top/usuario/repositorio)
-![Build](https://img.shields.io/github/actions/workflow/status/usuario/repo/build.yml)
-![Role](https://img.shields.io/badge/Role-Solutions_Architect-7C5CFA?style=for-the-badge)
-![Mindset](https://img.shields.io/badge/Mindset-Problem_Solver-0EA5E9?style=flat)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+<details>
+<summary><strong>🎨 Diseño & Prototipado</strong></summary>
 
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+<br>
 
-![Looker](https://img.shields.io/badge/Looker_Studio-1A73E8?style=for-the-badge&logo=lookerstudio)
-![Architecture](https://img.shields.io/badge/Architecture-System_Design-202124?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-UI%2FUX_Design-F24E1E?style=plastic&logo=figma&labelColor=161B22)
+![Canva](https://img.shields.io/badge/Canva-Design_Tool-00C4CC?style=plastic&logo=canva&labelColor=161B22)
 
+</details>
+
+<details>
+<summary><strong>🧠 Organización & Productividad</strong></summary>
+
+<br>
+
+![Notion](https://img.shields.io/badge/Notion-Knowledge_Management-000000?style=plastic&logo=notion&labelColor=161B22)
 
 </details>
 
 
+### 🦸 Soft & Power Skills
 
+<details>
+<summary><strong>🤝 Soft Skills</strong></summary>
 
+<br>
 
+![Analytical Thinking](https://img.shields.io/badge/Analytical_Thinking-Problem_Solving-4C6EF5?style=plastic&labelColor=161B22)
+![Clear Communication](https://img.shields.io/badge/Clear_Communication-Technical_&_Non--Technical-22C55E?style=plastic&labelColor=161B22)
+![Continuous Learning](https://img.shields.io/badge/Continuous_Learning-Self_Driven-0EA5E9?style=plastic&labelColor=161B22)
+![Structured Thinking](https://img.shields.io/badge/Structured_Thinking-Systems_Mindset-A855F7?style=plastic&labelColor=161B22)
+![Professional Judgment](https://img.shields.io/badge/Professional_Judgment-Critical_Thinking-E11D48?style=plastic&labelColor=161B22)
 
+</details>
+
+<details>
+<summary><strong>⚡ Power Skills</strong></summary>
+
+<br>
+
+![Tech to Business](https://img.shields.io/badge/Tech_to_Business-Translation-2563EB?style=plastic&labelColor=161B22)
+![Scalable Design](https://img.shields.io/badge/Scalable_Design-Long_Term_Thinking-16A34A?style=plastic&labelColor=161B22)
+![Systemic Vision](https://img.shields.io/badge/Systemic_Vision-End_to_End_View-7C3AED?style=plastic&labelColor=161B22)
+![Automation Mindset](https://img.shields.io/badge/Automation_Mindset-Efficiency_Focused-0891B2?style=plastic&labelColor=161B22)
+![Strategic Thinking](https://img.shields.io/badge/Strategic_Thinking-Business_Impact-CA8A04?style=plastic&labelColor=161B22)
+
+</details>
 
 <!----------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-### 📈 GitHub Analitics
+
+<h2 align="center">📈 GitHub Analitics</h2>
 
 <p align="center">
   <a href="https://github.com/DiegoRojas93">
